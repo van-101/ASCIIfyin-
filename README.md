@@ -16,8 +16,9 @@ removing excess borders and saving the final image.
  upload the path of image you want to convert into ascii and recieve a output2.jpg file in your system
 
 ## To convert video to ASCII videos,
+**the additional task**
 
-(unable to upload the preview of the video in readme, you can find it in the files though)
+_(unable to upload the preview of the video in readme, you can find it in the files though)_
 
 each frame of the video is captured seperately using opencv. 
 each image is first converted to an ascii image using the code from to ascii photos. 
@@ -30,7 +31,7 @@ the video is stored in an `.avi` form.
 
 ## Learnings from this project, 
 
-This project made me comfortable with python and it's libraries like `OpenCV`, `PIL`, `natsort`, `os` and `numpy`. learnt the concepts of image processing, extracting frames, compiling frames 
+This project made me comfortable with python and it's libraries like `OpenCV`, `PIL`, `natsort`, `os` and `numpy`. learnt the concepts of image processing, extracting frames, compiling frames and more. 
      
 ### Resources used: 
 [https://cdn.discordapp.com/attachments/978237259339939920/982623505289990144/ascii.py]
