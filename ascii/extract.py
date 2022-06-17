@@ -54,8 +54,7 @@ while (True):
 
     if success:
 # continue creating images until video remains
-        name = './new/frame' + str(currentframe) + '.jpg'
-        #   name = './data/frame' + str(currentframe) + '.jpg'
+        name = './data/frame' + str(currentframe) + '.jpg'
         print('Creating...' + name)
         image=frame
 #  Extracting height and width from Image
