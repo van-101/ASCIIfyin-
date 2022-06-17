@@ -34,8 +34,6 @@ the video is stored in an `.avi` form.
 This project made me comfortable with python and it's libraries like `OpenCV`, `PIL`, `natsort`, `os` and `numpy`. learnt the concepts of image processing, extracting frames, compiling frames and more. 
      
 ### Resources used: 
-[https://cdn.discordapp.com/attachments/978237259339939920/982623505289990144/ascii.py]
-
-[https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjVsPqf_LL4AhVXIbcAHefLB5MQFnoECAIQAQ&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fextract-images-from-video-in-python%2F&usg=AOvVaw03nKIh1GhiABeCmT0QwaQo]
-
-[https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiro6XT_LL4AhVcldgFHULsCs0QFnoECAcQAQ&url=https%3A%2F%2Fpypi.org%2Fproject%2Fnatsort%2F&usg=AOvVaw3cz2abjPl-KY1YTlx8iCpt]
+[acm source code week2](https://cdn.discordapp.com/attachments/978237259339939920/982623505289990144/ascii.py)<br>
+[extracting images from a video](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjVsPqf_LL4AhVXIbcAHefLB5MQFnoECAIQAQ&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fextract-images-from-video-in-python%2F&usg=AOvVaw03nKIh1GhiABeCmT0QwaQo)<br>
+[compiling extracted images into a video](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiro6XT_LL4AhVcldgFHULsCs0QFnoECAcQAQ&url=https%3A%2F%2Fpypi.org%2Fproject%2Fnatsort%2F&usg=AOvVaw3cz2abjPl-KY1YTlx8iCpt)<br>
