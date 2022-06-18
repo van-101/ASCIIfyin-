@@ -54,8 +54,7 @@ while (True):
 
     if success:
         # continue creating images until video remains
-        name = 'data/frame' + str(currentframe) + '.jpg'
-        #   name = './data/frame' + str(currentframe) + '.jpg'
+        name=os.path.join('data', str("frame"+str(currentframe))+'.jpg')
         print('Creating...' + name)
         image=frame
         
