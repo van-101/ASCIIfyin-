@@ -18,16 +18,21 @@ removing excess borders and saving the final image.
 ## To convert video to ASCII videos,
 **the additional task**
 
-_(unable to upload the preview of the video in readme, you can find it in the files though)_
+
+
+
+https://user-images.githubusercontent.com/82715876/174432201-cb3bf207-bd05-41b7-a44f-3911ab0810ec.mp4
+
 
 each frame of the video is captured seperately using opencv. 
 each image is first converted to an ascii image using the code from to ascii photos. 
 then each asciified image is saved in a seperate directory. 
 the computer doesn't store the images in a natural order, so the `natsort` module comes in handy to sort the ascii frames and compile the images        in an order so that the video makes sense. 
-the video is stored in an `.avi` form. 
+the video is stored in an `.avi` form. But is converted here to .mp4 for the readme file.
      
  ### to run this, 
- upload the path of video in extract.py and then upload the path of the new directory called "data" to join.py. run the code to recieve a asciify.avi stored in your systen. 
+ work with a linux/mac system, 
+upload the path of video in extract.py and run the extract.py file followed by the join.py file to recieve a video stored as "asciify2.avi". 
 
 ## Learnings from this project, 
 
